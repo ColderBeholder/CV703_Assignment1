@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 2. Prepare the datasets:
 ```python
-# Datasets will be automatically downloaded when running the scripts
+# Datasets will be downloaded when running the Assignment1_Dataloader.ipynb
 # Default paths:
 # - ./data/flowers-102
 # - ./data/imagewoof2-160
